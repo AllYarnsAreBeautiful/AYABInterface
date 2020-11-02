@@ -40,6 +40,27 @@ AYABInterface
 .. image:: https://badge.waffle.io/fossasia/AYABInterface.svg?label=ready&title=issues%20ready
    :target: https://waffle.io/fossasia/AYABInterface
    :alt: Issues ready to work on
+   
+.. image:: https://raster.shields.io/pypi/dm/knitlib.png?style=flat
+   :target: https://pypi.org/project/knitlib/
+   :alt: PyPI Package monthly downloads
+   
+.. image:: https://img.shields.io/pypi/wheel/knitlib.svg?style=flat
+   :target: https://github.com/fossasia/AYABInterface/issues/2
+   :alt: PyPI Wheel
+   
+.. image:: https://img.shields.io/pypi/pyversions/knitlib.svg?style=flat
+   :target: https://pypi.org/
+   :alt: Supported versions
+   
+.. image:: https://img.shields.io/pypi/implementation/knitlib.svg?style=flathttps://pypi.org/
+   :target: https://github.com/fossasia/AYABInterface/issues/2
+   :alt: Supported imlementations
+   
+.. image:: https://raster.shields.io/scrutinizer/g/tian2992/knitlib/master.png?style=flat
+   :target: https://scrutinizer-ci.com/g/tian2992/knitlib/
+   :alt: Scrutinizer Status
+
 
 A Python library with the interface to the AYAB shield.
    
